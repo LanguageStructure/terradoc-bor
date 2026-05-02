@@ -27,8 +27,6 @@ terradoc-bor/
 ├── CITATION.cff
 ├── audio/
 │   ├── wav/
-│   ├── mp3/
-│   └── ogg/
 ├── metadata/
 │   ├── recordings.csv
 │   ├── speakers.csv
