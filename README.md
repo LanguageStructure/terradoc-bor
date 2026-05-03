@@ -4,6 +4,8 @@ Este repositório contém arquivos de áudio em língua **Bororo**, utilizados e
 
 Os arquivos aqui reunidos podem servir como base para dicionários digitais, corpora linguísticos, materiais escolares, estudos fonéticos e fonológicos, reconhecimento automático de fala, síntese de fala e modelos de linguagem voltados a línguas indígenas brasileiras.
 
+[![DOI](https://zenodo.org/badge/1226868929.svg)](https://doi.org/10.5281/zenodo.20004069)
+
 ## Objetivo
 
 O objetivo deste repositório é oferecer uma organização transparente, rastreável e citável dos arquivos de áudio Bororo usados em:
